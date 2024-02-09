@@ -1,0 +1,184 @@
+{ "molds": [
+    
+    {
+      "name": "Grapes",
+      "dutch": "Witte Druiven",
+      "date": "09/11/2022",
+      "imageURL": "https://cdn.glitch.global/af890a0c-6e36-4736-ac8a-40de890a60cb/221109.png?v=1679917919783"
+    },
+    {
+      "name": "Banana",
+      "dutch": "Bananen",
+      "date": "16/11/2022",
+      "imageURL": "https://cdn.glitch.global/af890a0c-6e36-4736-ac8a-40de890a60cb/221116.png?v=1679917939980"
+    },
+    {
+      "name": "Basil Pesto",
+      "dutch": "Basilicum Pesto",
+      "date": "17/11/2022",
+      "imageURL": "https://cdn.glitch.global/af890a0c-6e36-4736-ac8a-40de890a60cb/221117.png?v=1679917941026"
+    },
+    {
+      "name": "Tangerine",
+      "dutch": "Mandarijnen",
+      "date": "26/11/2022",
+      "imageURL": "https://cdn.glitch.global/af890a0c-6e36-4736-ac8a-40de890a60cb/221126.png?v=1679917941720"
+    },
+    {
+      "name": "Avocado",
+      "dutch": "Avocado",
+      "date": "02/12/2022",
+      "imageURL": "https://cdn.glitch.global/af890a0c-6e36-4736-ac8a-40de890a60cb/221202.png?v=1679917943130"
+    },
+    {
+      "name": "Strawberry",
+      "dutch": "Aardbeien",
+      "date": "05/12/2022",
+      "imageURL": "https://cdn.glitch.global/af890a0c-6e36-4736-ac8a-40de890a60cb/221205.png?v=1679917943724"
+    },
+    {
+      "name": "Pasta Sauce",
+      "dutch": "Pastasaus",
+      "date": "10/12/2022",
+      "imageURL": "https://cdn.glitch.global/af890a0c-6e36-4736-ac8a-40de890a60cb/221210_2.png?v=1679917944591"
+    },
+    {
+      "name": "(A Lid of the) Pasta Sauce",
+      "dutch": "(A Lid of the) Pastasaus",
+      "date": "10/12/2022",
+      "imageURL": "https://cdn.glitch.global/af890a0c-6e36-4736-ac8a-40de890a60cb/221210.png?v=1679917945615"
+    },
+        {
+      "name": "Tomato",
+          "dutch": "Snoepgroente Tomaat",
+      "date": "12/12/2022",
+      "imageURL": "https://cdn.glitch.global/af890a0c-6e36-4736-ac8a-40de890a60cb/221212.png?v=1679917946268"
+    },
+        {
+      "name": "Sweet Onion",
+      "dutch": "Zoete Uien",
+      "date": "10/12/2022",
+      "imageURL": "https://cdn.glitch.global/af890a0c-6e36-4736-ac8a-40de890a60cb/221216.png?v=1679917947321"
+    },
+        {
+      "name": "Avocado(again)",
+          "dutch": "Avocado(opnieuw)",
+      "date": "21/12/2022",
+      "imageURL": "https://cdn.glitch.global/af890a0c-6e36-4736-ac8a-40de890a60cb/221221.png?v=1679917948370"
+    },
+        {
+      "name": "Eggplant(sliced)",
+      "dutch": "Aubergine",    
+      "date": "26/12/2022",
+      "imageURL": "https://cdn.glitch.global/af890a0c-6e36-4736-ac8a-40de890a60cb/221226_2.png?v=1679917949083"
+    },
+        {
+      "name": "Bread",
+      "dutch": "Volkoren Bollen",
+      "date": "26/12/2022",
+      "imageURL": "https://cdn.glitch.global/af890a0c-6e36-4736-ac8a-40de890a60cb/221226_3.png?v=1679917949987"
+    },
+        {
+      "name": "Eggplant(whole)",
+          "dutch": "Aubergine",
+      "date": "26/12/2022",
+      "imageURL": "https://cdn.glitch.global/af890a0c-6e36-4736-ac8a-40de890a60cb/221226.png?v=1679917950756"
+    },
+        {
+      "name": "Herb Cheese",
+          "dutch": "Kruid Kaas",
+      "date": "04/01/2023",
+      "imageURL": "https://cdn.glitch.global/af890a0c-6e36-4736-ac8a-40de890a60cb/230104.png?v=1679917951520"
+    },
+        {
+      "name": "Tomato",
+          "dutch": "Tomaat",
+      "date": "05/01/2023",
+      "imageURL": "https://cdn.glitch.global/af890a0c-6e36-4736-ac8a-40de890a60cb/230105.png?v=1679917952124"
+    },
+    {
+      "name": "Doenjang Jjigae",
+      "dutch": "Soybean Paste Stew",
+      "date": "09/01/2023",
+      "imageURL": "https://cdn.glitch.global/af890a0c-6e36-4736-ac8a-40de890a60cb/230109.png?v=1679917952961"
+    },
+    {
+      "name": "Garlic",
+      "dutch": "Knoflook",
+      "date": "23/01/2023",
+      "imageURL": "https://cdn.glitch.global/af890a0c-6e36-4736-ac8a-40de890a60cb/230125.png?v=1679917953619"
+    },
+    {
+      "name": "Basil Pesto",
+      "dutch": "Basilicum Pesto",
+      "date": "28/01/2023",
+      "imageURL": "https://cdn.glitch.global/af890a0c-6e36-4736-ac8a-40de890a60cb/230128.png?v=1679917954443"
+    },
+    {
+      "name": "Blueberry (1)",
+      "dutch": "Blauwe Bessen (1)",
+      "date": "12/02/2023",
+      "imageURL": "https://cdn.glitch.global/af890a0c-6e36-4736-ac8a-40de890a60cb/230212_2.png?v=1679917955386"
+    },
+    {
+      "name": "Blueberry (2)",
+      "dutch": "Blauwe Bessen (2)",
+      "date": "12/02/2023",
+      "imageURL": "https://cdn.glitch.global/af890a0c-6e36-4736-ac8a-40de890a60cb/230212_3.png?v=1679917956430"
+    },
+    {
+      "name": "Blueberry (3)",
+      "dutch": "Blauwe Bessen (3)",
+      "date": "12/02/2023",
+      "imageURL": "https://cdn.glitch.global/af890a0c-6e36-4736-ac8a-40de890a60cb/230212.png?v=1679917957820"
+    },
+    {
+      "name": "Tangerine",
+      "dutch": "Mandarijnen",
+      "date": "11/03/2023",
+      "imageURL": "https://cdn.glitch.global/af890a0c-6e36-4736-ac8a-40de890a60cb/230311.png?v=1679917959446"
+    },
+    {
+      "name": "Mozzarella Cheese",
+      "dutch": "Mozzarella Geraspt",
+      "date": "16/03/2023",
+      "imageURL": "https://cdn.glitch.global/af890a0c-6e36-4736-ac8a-40de890a60cb/230316.png?v=1679917960198"
+    },
+    {
+      "name": "Gouda Cheese",
+      "dutch": "Goudse Kaas",
+      "date": "30/03/2023",
+      "imageURL": "https://cdn.glitch.global/af890a0c-6e36-4736-ac8a-40de890a60cb/230330.png?v=1681735592211"
+    },
+    {
+      "name": "Tomato",
+      "dutch": "Snoepgroente Tomaat",
+      "date": "02/04/2023",
+      "imageURL": "https://cdn.glitch.global/af890a0c-6e36-4736-ac8a-40de890a60cb/230402.png?v=1681735167561"
+    },
+{
+      "name": "Garlic",
+      "dutch": "Knoflook",
+      "date": "07/04/2023",
+      "imageURL": "https://cdn.glitch.global/af890a0c-6e36-4736-ac8a-40de890a60cb/230407.png?v=1681735173875"
+    },
+{
+      "name": "Tangerine",
+      "dutch": "Mandarijnen",
+      "date": "11/04/2023",
+      "imageURL": "https://cdn.glitch.global/af890a0c-6e36-4736-ac8a-40de890a60cb/230411.png?v=1681735174897"
+    },
+{
+      "name": "Bread (1)",
+      "dutch": "Volkoren Speltbrood (1)",
+      "date": "15/04/2023",
+      "imageURL": "https://cdn.glitch.global/af890a0c-6e36-4736-ac8a-40de890a60cb/230415.png?v=1681735176334"
+    },
+{
+      "name": "Bread (2)",
+      "dutch": "Volkoren Speltbrood (2)",
+      "date": "15/04/2023",
+      "imageURL": "https://cdn.glitch.global/af890a0c-6e36-4736-ac8a-40de890a60cb/230415-2.png?v=1681735177208"
+    }
+  ]
+}
